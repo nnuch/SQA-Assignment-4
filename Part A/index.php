@@ -2,6 +2,13 @@
 <html>
 <head>
 	<title>Home</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  	<!-- icon -->
+ 	<link rel="icon" href="images/favicon.ico">
+ 	<link rel="shortcut icon" href="Images/favicon.ico">
+
 	<link href="content/css/style.css" rel="stylesheet" media="screen"/>
 	<link href="content/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
 	<link href="content/css/bootstrap-cerulean.css" rel="stylesheet" media="screen"/> 		
