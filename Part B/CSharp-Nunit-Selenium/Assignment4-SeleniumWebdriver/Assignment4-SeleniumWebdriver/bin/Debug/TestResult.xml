@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\violi\OneDrive\Documents\Visual Studio 2015\Projects\Assignment4-SeleniumWebdriver\Assignment4-SeleniumWebdriver\bin\Debug\Assignment4-SeleniumWebdriver.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-11-10" time="10:16:57">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8794" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files\NUnit-2.6.4\NUnit-2.6.4\bin" machine-name="DESKTOP-NRI7L5H" user="violi" user-domain="DESKTOP-NRI7L5H" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\violi\OneDrive\Documents\Visual Studio 2015\Projects\Assignment4-SeleniumWebdriver\Assignment4-SeleniumWebdriver\bin\Debug\Assignment4-SeleniumWebdriver.dll" executed="True" result="Success" success="True" time="10.130" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Assignment4_SeleniumWebdriver" executed="True" result="Success" success="True" time="10.119" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="NUnitTestFixture" executed="True" result="Success" success="True" time="10.117" asserts="0">
+            <results>
+              <test-case name="Assignment4_SeleniumWebdriver.NUnitTestFixture.ShouldOpen_All_Pages_Of_WebApplication" executed="True" result="Success" success="True" time="10.089" asserts="3" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
