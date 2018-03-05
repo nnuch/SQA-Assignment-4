@@ -178,6 +178,7 @@ namespace Assignment4_SeleniumWebdriver
             Console.WriteLine("1. Inputted all fields + valid phone number (519)555-6666");
 
 
+
             // Click the Save button
             driver.FindElement(By.Id("myBtn")).Click();
             Console.WriteLine("2. Clicked Save Button");
